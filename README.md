@@ -111,13 +111,9 @@ hobbies: ["Trading", "Open Source", "System Design", "Cricket"]
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
+```text
+Loading...
 ```
-
 <!--END_SECTION:waka-->
 
 > ⚡ **Setup Required:** Sign up at [wakatime.com](https://wakatime.com), install the editor plugin, and add `WAKATIME_API_KEY` to GitHub secrets. Stats auto-update daily.

@@ -12,11 +12,52 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: athul/waka-readme@master
+      - uses: actions/setup-python@v5
         with:
+          python-version: "3.12"
+      - name: Fetch WakaTime stats and update README
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BLOCKS: "░▒▓█"
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+        run: |
+          python3 << 'PYEOF'
+          import os, re, urllib.request, json
+          key = os.environ["WAKATIME_API_KEY"]
+          headers = {"Authorization": "Basic " + base64.b64encode(f"{key}:".encode()).decode()}
+          import base64
+          headers = {"Authorization": "Basic " + base64.b64encode(f"{key}:".encode()).decode()}
+          req = urllib.request.Request("https://wakatime.com/api/v1/users/current/stats/last_7_days", headers=headers)
+          resp = urllib.request.urlopen(req)
+          data = json.loads(resp.read())
+          d = data.get("data", {})
+          days = d.get("days", [])
+          lines = ["```text"]
+          total = sum(day.get("total_seconds", 0) for day in days)
+          hrs, secs = divmod(int(total), 3600)
+          mins = secs // 60
+          lines.append(f"Total: {hrs}h {mins}m over {len(days)} days\n")
+          langs = d.get("languages", [])
+          if langs:
+              lines.append("Languages:")
+              for l in langs[:8]:
+                  pct = l.get("percent", 0)
+                  n = round(pct / 5)
+                  bar = "█" * n + "░" * (20 - n)
+                  lines.append(f"  {l['name']:<20} {bar} {pct:.1f}%")
+          lines.append("```")
+          stats = "\n".join(lines)
+          with open("README.md") as f:
+              readme = f.read()
+          readme = re.sub(
+              r"<!--START_SECTION:waka-->.*?<!--END_SECTION:waka-->",
+              f"<!--START_SECTION:waka-->\n{stats}\n<!--END_SECTION:waka-->",
+              readme, flags=re.DOTALL
+          )
+          with open("README.md", "w") as f:
+              f.write(readme)
+          PYEOF
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update WakaTime stats" && git push
