@@ -112,7 +112,17 @@ hobbies: ["Trading", "Open Source", "System Design", "Cricket"]
 
 <!--START_SECTION:waka-->
 ```text
-Loading...
+Total (7d): 0h 0m  |  Daily avg: 0.0h
+
+
+Daily Breakdown:
+  05-08  ▓  0h0m
+  05-09  ▓  0h0m
+  05-10  ▓  0h0m
+  05-11  ▓  0h0m
+  05-12  ▓▓  0h57m
+  05-13  ▓▓  0h58m
+  05-14  ▓  0h25m
 ```
 <!--END_SECTION:waka-->
 
