@@ -111,38 +111,13 @@ hobbies: ["Trading", "Open Source", "System Design", "Cricket"]
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs-blue?style=flat)
 
-**🐱 My GitHub Data**
+```txt
+Total Time: 0 secs
 
-> 📦 0 Bytes Used in GitHub's Storage
-> 
-> 🏆 0 Contributions in the Year 2026
-> 
-> 📜 0 Public Repositories
-> 
-> 🔑 0 Private Repositories
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                0 commits          █████████████████████████   00.00 %
-🌆 Daytime                0 commits          █████████████████████████   00.00 %
-🌃 Evening                0 commits          █████████████████████████   00.00 %
-🌙 Night                  0 commits          █████████████████████████   00.00 %
+No activity tracked
 ```
 
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages:
-No activity tracked yet
-
-💻 Operating Systems:
-No activity tracked yet
-```
-
- Last Updated on N/A
 <!--END_SECTION:waka-->
 
 > ⚡ **Setup Required:** Sign up at [wakatime.com](https://wakatime.com), install the editor plugin, and add `WAKATIME_API_KEY` to GitHub secrets. Stats auto-update daily.
