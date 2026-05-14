@@ -116,23 +116,7 @@ Loading...
 ```
 <!--END_SECTION:waka-->
 
-> ⚡ **Setup Required:** Sign up at [wakatime.com](https://wakatime.com), install the editor plugin, and add `WAKATIME_API_KEY` to GitHub secrets. Stats auto-update daily.
-
-<details>
-  <summary><h2>🎵 Spotify Now Playing</h2></summary>
-
-  <br/>
-  <p align="center">
-    <a href="https://open.spotify.com/user/">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=REPLACE_WITH_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=REPLACE_WITH_SPOTIFY_ID&count=5">
-  </p>
-  <p align="center"><sub>Replace <code>REPLACE_WITH_SPOTIFY_ID</code> with your Spotify user ID to enable</sub></p>
-</details>
-
+> ⚡ **Setup Required:** Sign up at [wakatime.com](https://wakatime.com), install the editor plugin, and add `WAKATIME_API_KEY` to GitHub secrets. Stats update on push to main.
 <details>
   <summary><h2>📌 Pinned Projects</h2></summary>
 
