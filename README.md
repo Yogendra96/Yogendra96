@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=220&section=header&text=Yogendra%20Bairagi&fontSize=50&fontAlignY=35&desc=Quant%20Developer%20%7C%20Software%20Engineer&descAlignY=55">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12&height=220&section=header&text=Yogendra%20Bairagi&fontSize=50&fontAlignY=35&desc=Quant%20Developer%20%7C%20Software%20Engineer&descAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=220&section=header&text=Yogendra%20Bairagi&fontSize=50&fontAlignY=35&desc=Data%20Systems%20Engineer%20%7C%20Trading%2C%20Fintech%2C%20CAE%2C%20AI&descAlignY=55">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12&height=220&section=header&text=Yogendra%20Bairagi&fontSize=50&fontAlignY=35&desc=Data%20Systems%20Engineer%20%7C%20Trading%2C%20Fintech%2C%20CAE%2C%20AI&descAlignY=55" width="100%"/>
   </picture>
 </div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Quant%20Developer%20%7C%20Low-Latency%20Systems;8%2B%20years%20building%20trading%20infrastructure;Python%20%E2%80%A2%20Rust%20%E2%80%A2%20Go%20%E2%80%A2%20TypeScript;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=0891b2&vCenter=true&pause=1000&size=20"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Systems%20Engineer%20%7C%20Trading%2C%20Fintech%2C%20CAE%2C%20AI;8%20Years%3A%20Quant%20Trading%2C%20Fintech%2C%20CAE%2C%20AI;Python%20%E2%80%A2%20Rust%20%E2%80%A2%20Go%20%E2%80%A2%20TypeScript;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=0891b2&vCenter=true&pause=1000&size=20"/>
   </a>
 </p>
 
@@ -32,35 +32,39 @@
 name: Yogendra Bairagi
 located_in: Abu Dhabi, UAE
 from: India
-job: Software Developer (Quant, Data)
-company: International Holding Company (Qdata)
+job: Quantitative Developer & Data Systems Engineer
+company: Qdata (Sirius International Holding and IHC, Abu Dhabi)
 education: ["BE Information Technology", "PG-DAC Advanced Computing"]
 past_experiences:
-  - ["Quant Developer", "Trading Systems", "Qdata (IHC)", "UAE", "2025-Present"]
+  - ["Quant Developer", "Trading Systems", "Qdata (IHC)", "UAE", "2025-2026"]
   - ["Technical Co-Founder", "Sustainability Startup", "Mumbai", "2024"]
-  - ["Senior Developer", "SDM Platform (Audi, Mercedes, Rivian)", "Scale India", "2023-2024"]
-  - ["Data Engineer", "FinTech", "Sionic (HSBC EDP)", "2022"]
+  - ["Senior Developer", "SDM Platform (Audi, Mercedes, Rivian)", "Scale India (DYNAmore Group)", "2023-2024"]
+  - ["Data Engineer", "FinTech", "Sionic (Davies) @ HSBC EDP", "2022"]
   - ["SDE", "Payment Gateway", "Verifone", "2019-2022"]
 
 fields_of_interests:
   [
+    "Trading Systems",
     "Algorithmic Trading",
     "Low-Latency Systems",
     "Quantitative Finance",
     "Data Engineering",
+    "AI Infrastructure",
+    "Simulation Data Management",
     "Distributed Systems",
-    "Rust Systems Programming",
   ]
 technical_background:
   [
-    "Trading Systems",
-    "Real-time Data Pipelines",
-    "Microservices Architecture",
+    "Trading Infrastructure",
+    "Financial Data Engineering",
     "Performance Optimization",
-    "Risk Management",
+    "Simulation Data Management",
+    "AI Inference Systems",
+    "Payment Systems",
   ]
-currently_learning: ["Rust", "WebRTC", "ML-driven Signal Generation"]
-hobbies: ["Trading", "Open Source", "System Design", "Cricket"]
+currently_learning: ["Product Management", "Rust", "Distributed AI Inference", "Julia"]
+hobbies: ["System Design", "Open Source", "Trading"]
+relocation: Actively seeking opportunities in EU (Netherlands, Switzerland, Germany, Denmark) and Asia (Japan, China)
 ```
 
 ---
@@ -132,17 +136,14 @@ Daily Breakdown:
 
   <br/>
   <p align="center">
-    <a href="https://github.com/bhupi080/ctrader">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhupi080&repo=ctrader&theme=city_lights&hide_border=true" />
+    <a href="https://github.com/Yogendra96/Kindred">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yogendra96&repo=Kindred&theme=city_lights&hide_border=true" />
     </a>
-    <a href="https://github.com/Yogendra96/WebRTC_Rust">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yogendra96&repo=WebRTC_Rust&theme=city_lights&hide_border=true" />
+    <a href="https://github.com/Yogendra96/samsung-kali-nethunter-rootless">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yogendra96&repo=samsung-kali-nethunter-rootless&theme=city_lights&hide_border=true" />
     </a>
-    <a href="https://github.com/Yogendra96/TWS_API-IB">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yogendra96&repo=TWS_API-IB&theme=city_lights&hide_border=true" />
-    </a>
-    <a href="https://github.com/Yogendra96/signal-forge-rs">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yogendra96&repo=signal-forge-rs&theme=city_lights&hide_border=true" />
+    <a href="https://github.com/Yogendra96/nvim-sensei">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yogendra96&repo=nvim-sensei&theme=city_lights&hide_border=true" />
     </a>
   </p>
 </details>
@@ -192,7 +193,7 @@ Daily Breakdown:
 ---
 
 <div align="center">
-  <sub>📍 Abu Dhabi, UAE &nbsp;&middot;&nbsp; 🕐 GST (UTC+4) &nbsp;&middot;&nbsp; 📅 Last updated: May 2026</sub>
+  <sub>📍 Abu Dhabi, UAE &nbsp;&middot;&nbsp; 🕐 GST (UTC+4) &nbsp;&middot;&nbsp; 📅 Last updated: July 2026</sub>
   <br/>
   <sub>Profile README auto-updates via GitHub Actions</sub>
   <br/><br/>
