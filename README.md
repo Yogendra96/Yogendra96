@@ -45,55 +45,33 @@ I build **data-intensive systems** that ship. With **8+ years** spanning quantit
 
 | Role | Organization | Period | Focus |
 |------|--------------|--------|-------|
-| **Quantitative Developer (Founding Engineer)** | **Qdata (Sirius International / IHC)** | Apr 2025 – Present | Trading systems, MT5/cTrader, MT5, TradingView, latency optimization |
-| **Technical Co-Founder** | **Sustainability Startup** | May 2024 – Dec 2024 | Carbon tracking, AI/ML, computer vision, React Native |
-| **Senior Software Developer** | **Scale India (ScaleGmbH)** | Jan 2023 – May 2024 | SDM Platform (Audi, Mercedes-Benz, Rivian), CAE data management |
-| **Consultant (Python Data Engineer)** | **Sionic (Davies) @ HSBC EDP** | Feb 2022 – Oct 2022 | Trade data pipelines, Data360, regulatory compliance |
-| **Software Development Engineer** | **Verifone** | Feb 2019 – Feb 2022 | PCI DSS encryption, ISO 8583, PySpark/Snowflake analytics |
+| **Quantitative Developer (Founding Engineer)** | **Qdata (Sirius International / IHC)** | Apr 2025 – Present | Trading systems, MT5/cTrader, TradingView, latency optimization |
+| **Technical Co-Founder** | **Stealth Startup** | May 2024 – Dec 2024 | Sustainability analysis, product development |
+| **Senior Software Developer** | **Scale India (ScaleGmbH — DYNAmore Group)** | Jan 2023 – May 2024 | SDM Platform (Audi, Mercedes-Benz, Rivian) |
+| **Consultant (Python Data Engineer)** | **Sionic (Davies) @ HSBC EDP** | Feb 2022 – Oct 2022 | Trade data pipelines, regulatory data integrity |
+| **Software Development Engineer** | **Verifone** | Feb 2019 – Feb 2022 | PCI DSS encryption, payment processing |
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:** `Python` `TypeScript` `JavaScript` `Java` `Go` `Rust` `Julia` `SQL`
-**Frameworks:** `Django` `FastAPI` `Flask` `React` `Next.js` `Angular` `PySpark` `LangGraph` `CrewAI`
-**Data & Analytics:** `ETL/ELT` `Snowflake` `Redshift` `BigQuery` `Airflow` `Pandas` `Spark` `Kafka` `NATS/JetStream`
-**Trading & Finance:** `MT5 API` `cTrader (OpenAPI/FIX)` `MultiCharts` `TradingView Webhooks` `Pine Script` `TA-Lib` `Polygon.io` `Alpaca`
+**Frameworks:** `Django` `FastAPI` `Flask` `React` `Next.js` `PySpark` `LangGraph` `CrewAI`
+**Data:** `ETL/ELT` `Snowflake` `Redshift` `BigQuery` `Airflow` `Pandas` `Spark` `Kafka` `NATS/JetStream`
+**Trading:** `MT5 API` `cTrader (OpenAPI/FIX)` `MultiCharts` `TradingView Webhooks` `Pine Script` `TA-Lib`
 **Cloud & DevOps:** `AWS` `Docker` `Kubernetes` `Git` `CI/CD` `Terraform` `Cloudflare` `RDMA`
-**AI & LLM:** `GenAI` `Prompt Engineering` `LangGraph` `CrewAI` `FinBERT` `Claude` `DeepSeek` `Hermes` `MLX` `exo`
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark x3" title="Pull Shark x3"/>
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire"/>
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" title="YOLO"/>
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" title="Quickdraw"/>
-</p>
-
----
-
-## 🏢 Organizations
-
-<p align="center">
-  <a href="https://github.com/Qdata-Octo"><img src="https://avatars.githubusercontent.com/u/12345678?s=64&v=4" width="64" alt="Qdata-Octo" title="Qdata-Octo"/></a>
-  <a href="https://github.com/Yogendra96"><img src="https://avatars.githubusercontent.com/u/26463537?s=64&v=4" width="64" alt="Yogendra96" title="Yogendra96"/></a>
-</p>
+**AI:** `GenAI` `Prompt Engineering` `LangGraph` `CrewAI` `FinBERT` `Claude` `DeepSeek` `Hermes` `MLX` `exo`
 
 ---
 
 ## 📌 Pinned Repositories
 
-| Repo | Description | Language | Stars |
-|------|-------------|----------|-------|
-| [Qdata-Octo/signalyzer](https://github.com/Qdata-Octo/signalyzer) | Trading signal backtesting engine: 39 metrics (Sharpe, CAGR, Monte Carlo), QuantStats integration | Python |  |
-| [Yogendra96/mt5-dashboard](https://github.com/Yogendra96/mt5-dashboard) | React+TypeScript dashboard with slippage models, asset-aware sizing, 30+ analytics metrics | TypeScript |  |
-| [Yogendra96/tv2ctrader](https://github.com/Yogendra96/tv2ctrader) | TradingView→cTrader bridge: FastAPI executing TV signals via OpenAPI/FIX (FXPro) | Python |  |
-| [Yogendra96/Kindred](https://github.com/Yogendra96/Kindred) | React Native carbon footprint tracking app with AI/ML predictions, CV scanning, gamification | TypeScript |  |
-| [Yogendra96/samsung-kali-nethunter-rootless](https://github.com/Yogendra96/samsung-kali-nethunter-rootless) | Kali NetHunter rootless for Samsung Galaxy — no root, no Knox trip, no warranty void | Shell |  |
-| [Yogendra96/nvim-sensei](https://github.com/Yogendra96/nvim-sensei) | One-command Neovim setup with integrated learning tools, LeetCode practice, 20+ language support | Lua |  |
+| Repo | Description | Language |
+|------|-------------|----------|
+| [Qdata-Octo/signalyzer](https://github.com/Qdata-Octo/signalyzer) | Trading signal backtesting engine: 39 metrics, QuantStats integration | Python |
+| [Yogendra96/Kindred](https://github.com/Yogendra96/Kindred) | React Native carbon footprint app with AI/ML predictions, CV scanning | TypeScript |
+| [Yogendra96/samsung-kali-nethunter-rootless](https://github.com/Yogendra96/samsung-kali-nethunter-rootless) | Kali NetHunter rootless for Samsung Galaxy — no root, no Knox trip | Shell |
+| [Yogendra96/nvim-sensei](https://github.com/Yogendra96/nvim-sensei) | One-command Neovim setup with learning tools, LeetCode practice | Lua |
 
 ---
 
@@ -117,27 +95,4 @@ I build **data-intensive systems** that ship. With **8+ years** spanning quantit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogendra96&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
 </div>
 
----
 
-## 🌐 Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/yogendra-bairagi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yogi77bairagi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Yogendra96">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linktr.ee/y0gi">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <sub>🌱 Minimalistic Ethical Vegan · Building systems that ship · Open to EU/APAC/Japan roles</sub>
-</div>
