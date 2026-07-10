@@ -119,24 +119,25 @@ relocation: Actively seeking opportunities in EU (Netherlands, Switzerland, Germ
 Total (7d): 0h 0m  |  Daily avg: 0.0h
 
 Languages:
-  TypeScript       ███████░░░░░░░░░░░░░ 35.5%
-  Markdown         █████░░░░░░░░░░░░░░░ 27.5%
-  INI              ███░░░░░░░░░░░░░░░░░ 13.6%
-  Other            ███░░░░░░░░░░░░░░░░░ 13.4%
-  Python           ██░░░░░░░░░░░░░░░░░░ 10.1%
+  Other            █████████░░░░░░░░░░░ 46.4%
+  Markdown         ████░░░░░░░░░░░░░░░░ 18.1%
+  INI              ███░░░░░░░░░░░░░░░░░ 13.2%
+  TypeScript       ██░░░░░░░░░░░░░░░░░░ 11.4%
+  Python           ██░░░░░░░░░░░░░░░░░░ 10.9%
 
 Editors:
-  Antigravity IDE ██████████████████░░ 90.8%
-  Zed          ██░░░░░░░░░░░░░░░░░░ 9.2%
+  Zed          ███████████░░░░░░░░░ 53.5%
+  Antigravity IDE █████████░░░░░░░░░░░ 46.5%
+  Opencode Cli ░░░░░░░░░░░░░░░░░░░░ 0.1%
 
 Daily Breakdown:
-  07-02  ▓  0h7m
-  07-03  ▓▓  1h0m
   07-04  ▓  0h0m
   07-05  ▓  0h0m
   07-06  ▓  0h35m
   07-07  ▓  0h42m
-  07-08  ▓▓  0h53m
+  07-08  ▓▓▓  1h18m
+  07-09  ▓  0h13m
+  07-10  ▓  0h0m
 ```
 <!--END_SECTION:waka-->
 
