@@ -196,7 +196,7 @@ Daily Breakdown:
   <summary><h2>⚡ Recent GitHub Activity</h2></summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [decklab v0.0.1](https://github.com/Yogendra96/decklab/releases/tag/v0.0.1) in [Yogendra96/decklab](https://github.com/Yogendra96/decklab)
+1. 🚀 Published release [decklab v0.0.2](https://github.com/Yogendra96/decklab/releases/tag/v0.0.2) in [Yogendra96/decklab](https://github.com/Yogendra96/decklab)
   <!--END_SECTION:activity-->
 
 </details>
